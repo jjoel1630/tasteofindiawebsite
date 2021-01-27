@@ -251,6 +251,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 100px;
+  
   color: #fff;
   font-size: 28px;
   font-weight: 700;
@@ -674,7 +675,7 @@ banner
 }
 
 #top .left-content h4 {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script';
   color: #fff;
   font-size: 54px;
   font-weight: 700;
